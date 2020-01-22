@@ -63,7 +63,7 @@
                     Rule: "OR('MrfMSP.admin')"
             AnchorPeers:
                 - Host: peer0.mrf.orderermanagement.com
-                  Port: 1051
+                  Port: 11051
     Capabilities:
         Channel: &ChannelCapabilities
             V1_4_3: true
